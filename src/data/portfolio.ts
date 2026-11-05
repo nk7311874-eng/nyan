@@ -32,6 +32,7 @@ export const profile = {
 
 export const contactDetails = {
   email: 'nk7311874@gmail.com',
+  phoneUrl: 'tel:+919709619661',
   whatsappUrl: 'https://wa.me/919709619661',
   whatsappLabel: '+91 97096 19661',
   instagramUrl: 'https://www.instagram.com/your_handle',
