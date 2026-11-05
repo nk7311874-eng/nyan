@@ -35,7 +35,7 @@ export const contactDetails = {
   phoneUrl: 'tel:+919709619661',
   whatsappUrl: 'https://wa.me/919709619661',
   whatsappLabel: '+91 97096 19661',
-  instagramUrl: 'https://www.instagram.com/your_handle',
+  instagramUrl: 'https://www.instagram.com/mr._nitish_/',
   linkedinUrl: 'https://www.linkedin.com/in/your-profile',
 };
 
