@@ -11,7 +11,7 @@ export default function Contact() {
         <SectionHeading
           eyebrow="Contact"
           title="Let's Talk About Your Project"
-          description="Have a business enquiry? Call me or start a conversation on WhatsApp."
+          description="Fill out the enquiry form and send it directly to me on WhatsApp."
         />
 
         <Reveal className="mx-auto max-w-3xl">
